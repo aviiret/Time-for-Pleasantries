@@ -6,6 +6,12 @@ They've been kidnapping people from Alacran for sustenance.
 
 They offer a pleasant end to their victims' existence in a peaceful sleep with happy dreams.
 
+Pleasantries have a strict moral code, and do not see their way of feeding as immoral or bad.
+
+They deliberately select those who are experiencing turmoil, hardship, or sadness in their lives as their sources of sustenance, and believe that by putting these people under a pleasant sleep they give them a much better end of their lives than their toilsome existence back in the Material Realm.
+
+Pleasantries liken this to how people in the Material Realm keep cattle, and will argue that their way of treating their dreamers is much more “humane”.
+
 ![[Pasted image 20230916150237.png]]
 
 Locations:
