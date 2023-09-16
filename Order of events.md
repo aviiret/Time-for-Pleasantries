@@ -2,3 +2,7 @@
 
 [[Orphanage]]
 
+[[Forest]]
+
+[[Plane of Faerie]]
+

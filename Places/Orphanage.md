@@ -23,3 +23,10 @@ With some exploration or investigation of the area, the players may notice some 
 Renata has a room to herself here on the first floor, with a window not too far off the ground, though the walls are thin and sound travels easily between rooms. 
 
 Due to the recent disappearances, the building is patrolled by a series of guards on rotating shifts ([[Guard|humanoid guards]]), but with a sufficient check or enough time watching, the characters can figure out the patterns and breaks in the shifts. Alarm spells, Dexterity (Stealth) checks, and watchful familiars may come in handy at this juncture.
+
+The first few hours of the night pass without incident, though a call for Wisdom (Perception) checks will help create tension. In the middle of the night...
+
+>“Slowly, the windows begin to open, creaking as they slowly move. Moonlight shines through them and pools on the sheets above Renata’s body as it, too, starts to move. Renata is still peacefully asleep, but her body rises above the bed, hovering limply. Color leaches from her, turning her almost translucent. As if carried by a gentle current, she floats out the windows and into the night.”
+
+Following Renata’s body in secret, the characters make their way towards the [[Forest|forest]] at the outskirts of Alarcan.
+
