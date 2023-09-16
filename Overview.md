@@ -10,3 +10,5 @@ They travel to the [[Plane of Faerie]], through [[The Shallows]] and into [[The 
 
 There they confront the [[Pleasantries|pleasantries]] and their [[Pleasantry Queen|queen]], and must decide whether to attack or negotiate. To rescue the dreamers or leave the fae to their dream-farming.
 
+The adventure starts with a [[Plot Hooks|plot hook]].
+
