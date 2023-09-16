@@ -19,3 +19,6 @@ Unfortunately for the players, this Nightcap is actively hunting. The Nightcap a
 When the Nightcap is severely bloodied, have it disappear again, returning to the Plane of Faerie and attacking the players’ vulnerable, sleeping bodies. The characters must then wake themselves up, either by taking damage from the Nightcap; willing themselves awake by succeeding on a **Constitution saving throw** (DC 15); or another character taking an action to wake them, upon which the sleeping player can make a **Constitution saving throw** (DC 10) with advantage to wake up.
 
 
+Locations:
+[[The Shallows]]
+

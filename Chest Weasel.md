@@ -1,0 +1,5 @@
+A fae creature that feeds on frustration. These faeries are attached to enchanted chests, and often hoard treasure within them, using them as bait. They then play illusion-based tricks and pranks like this on hapless treasure-seekers, filling their bellies with their victims’ annoyance. They’re generous with their treasure in return, so it’s a fair trade... at least, if you ask the Chest Weasel.
+
+With every sigh or groan of frustration your players produce, this particular Weasel gets happier and happier; when you count ten expressions of annoyance, the Chest Weasel pops out of the chest and thanks them for the meal!
+
+The Weasel offers the players what is actually hidden inside his chest: a [[Horn of Plenty]]. He is also happy to chat, perfectly friendly after he’s been fed so well, and may even provide some information about the faeries behind the kidnappings to particularly persuasive players.
