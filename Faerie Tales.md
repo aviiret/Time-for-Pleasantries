@@ -12,7 +12,7 @@ An Intelligence (Investigation) or Wisdom (Perception) check (DC 13), or a Chari
 
 - The most recent disappearance was a couple months ago, a child at an orphanage in town. It’s not the first child who’s disappeared from that orphanage, either.
 
-- With an especially high roll, a child might tell the party pieces of the orphanage kids’ story below.
+- With an especially high roll, a child might tell the party pieces of the [[Orphanage|orphanage]] kids’ story below.
 
 
 It should be obvious that their first stop is the [[Orphanage|orphanage]].
