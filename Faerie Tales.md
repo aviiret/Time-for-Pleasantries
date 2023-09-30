@@ -16,5 +16,3 @@ An Intelligence (Investigation) or Wisdom (Perception) check (DC 13), or a Chari
 
 
 It should be obvious that their first stop is the [[Orphanage|orphanage]].
-
-
